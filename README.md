@@ -1,5 +1,5 @@
 # CSharp_DI_Example
 
-Personal example of things learned with C# language.
+An early attempt with c# to learn the ins and outs and get feedback from lecturer.
 
-Mostly shows examples of polymorphism, early learning of design patterns and some basic attempts at dependency injection.
+Better work to come in the future. :)
